@@ -1,5 +1,6 @@
 from pybleno import Characteristic
 
+
 class S_Characteristic(Characteristic):
 
     def __init__(self, uuid):
